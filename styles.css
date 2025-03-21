@@ -1,0 +1,36 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+
+h1,
+h2 {
+    text-align: center;
+}
+
+
+h1 {
+    background-color: lightblue;
+}
+
+h2 {
+    background-color: lightgrey;
+}
+
+
+h1.title.header {
+    background-color: aquamarine;
+}
+
+h3.title.recipe {
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 18px;
+    margin-bottom: 1px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
